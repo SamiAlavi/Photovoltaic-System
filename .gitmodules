@@ -1,0 +1,6 @@
+[submodule "Photovoltaic-System-Frontend"]
+	path = Photovoltaic-System-Frontend
+	url = https://github.com/SamiAlavi/Photovoltaic-System-Frontend
+[submodule "Photovoltaic-System-Backend"]
+	path = Photovoltaic-System-Backend
+	url = https://github.com/SamiAlavi/Photovoltaic-System-Backend

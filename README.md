@@ -1,5 +1,8 @@
 # Photovoltaic-System
 
+![architecture](https://github.com/user-attachments/assets/39578d19-f6c8-4445-a107-86d8c25d40f5)
+
+
 ## Overview
 
 The project is to create a **web-based photovoltaic system calculation tool** that provides better planning options for photovoltaic systems. The tool will use **current weather data** and **local conditions** to estimate the usability and effectiveness of photovoltaic systems from a particular manufacturer and product. The final product will include both a **term paper** and a **working web-based prototype**.
